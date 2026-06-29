@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Aditya Nimaliya 👋
 
-<!--
-**Nimaliya/Nimaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Aspiring Data Scientist & Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about transforming data into meaningful insights through analytics, visualization, and machine learning. I enjoy working on real-world datasets, building predictive models, and developing data-driven solutions using Python and SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+
+* Python
+* SQL
+* Microsoft Excel
+* Pandas & NumPy
+* Matplotlib & Seaborn
+* Scikit-learn
+* Machine Learning
+* Data Cleaning & Preprocessing
+* Data Visualization
+* Flask
+* Git & GitHub
+
+### 🚀 Currently Learning
+
+* Advanced Machine Learning
+* Data Analytics
+* Power BI
+* Statistics
+* Deep Learning
+
+### 📌 Interests
+
+* Data Science
+* Predictive Analytics
+* Business Intelligence
+* Artificial Intelligence
+* Open Source Projects
+
+I believe in continuous learning and enjoy building projects that solve real-world problems through data.
